@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/localshred/kd17-functional-workshop.git",
   "author": "BJ Neilsen <bj.neilsen@gmail.com>",
-  "license": "NONE",
+  "license": "UNLICENSED",
   "private": false,
   "dependencies": {
     "ramda": "^0.25.0"
