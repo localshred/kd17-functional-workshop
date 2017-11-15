@@ -3,7 +3,7 @@ module.exports = numbers => {
 
   for (let i = 0; i < numbers.length; i++) {
     const value = numbers[i]
-    if (value % 2 !== 0) {
+    if (value % 2 !== 0 || value % 8 === 0) {
       returnValue.push(value)
     }
   }
