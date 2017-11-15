@@ -1,0 +1,16 @@
+{
+  "name": "kd17-functional-workshop",
+  "version": "1.0.0",
+  "description": "KualiDays 2017 Functional Workshop Workbook",
+  "main": "index.js",
+  "repository": "https://github.com/localshred/kd17-functional-workshop.git",
+  "author": "BJ Neilsen <bj.neilsen@gmail.com>",
+  "license": "NONE",
+  "private": false,
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
