@@ -1,0 +1,7 @@
+" Fix gf paths
+set includeexpr=substitute(v:fname,'app/','/code/scratch/kd17-functional-workshop/','g')
+set suffixesadd+=.js
+
+let g:ale_linters = {'javascript': ['standard']}
+
+let g:used_javascript_libs='ramda'
