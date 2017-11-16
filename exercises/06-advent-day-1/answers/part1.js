@@ -14,4 +14,4 @@ const result = R.pipe(
   )
 )(input)
 
-console.log({ result })
+console.log({ result }) // for correct answer decode base64 utf-8: MjMy

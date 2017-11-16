@@ -21,4 +21,4 @@ const result = R.pipe(R.split(''), R.reduce(tick, { floor: 0, index: 0 }))(
   input
 )
 
-console.log({ result })
+console.log({ result }) // for correct answer decode base64 utf-8: MTc4Mw==
