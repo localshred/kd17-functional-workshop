@@ -11,7 +11,7 @@ In order to work on the code in this workshop you will need the following:
 + Get a copy of NodeJS, preferrably anything older than 7.x. I used v8.2.1 for this workshop. [Download Instructions](https://nodejs.org/en/download/)
 + Once you have node installed: `npm install -g yarn`
 + Then install dependencies: `yarn`
-+ You _should_ be good to go. To run your tests, run: `yarn test`. You should get a bunch of green tests. If so, congratulations, you are ready to rock!
++ You _should_ be good to go. To run your tests, run: `yarn jest`. You should get a bunch of green tests. If so, congratulations, you are ready to rock!
 
 ### Exercises
 
