@@ -1,6 +1,8 @@
 # 2015 Advent of Code
 
-## Day 1
+## Day 1: Not Quite Lisp
+
+### Part 1
 
 Santa is trying to deliver presents in a large apartment building, but he can't find the right floor - the directions he got are a little confusing. He starts on the ground floor (floor 0) and then follows the instructions one character at a time.
 
@@ -16,6 +18,20 @@ For example:
 + `())` and `))(` both result in floor -1 (the first basement level).
 + `)))` and `)())())` both result in floor -3.
 
-Using the instructions in [`input.txt`](./input.txt), to what floor do the [instructions](./input.txt) take Santa?
+Using the instructions in [`input.txt`](./input.txt), to *what floor* do the [instructions](./input.txt) take Santa?
 
 [Submit your answer](http://adventofcode.com/2015/day/1).
+
+### Part 2
+
+__Note:__ Make sure you complete part 1 first.
+
+Now, given the same instructions, find the position of the first character that causes him to enter the basement (floor `-1`). The first character in the instructions has position `1`, the second character has position `2`, and so on.
+
+For example:
+
++ `)` causes him to enter the basement at character position 1.
++ `()())` causes him to enter the basement at character position 5.
+
+What is the *position* of the character that causes Santa to first enter the basement?
+

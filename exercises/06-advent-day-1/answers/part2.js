@@ -1,5 +1,5 @@
 const R = require('ramda')
-const input = require('../input.js')
+const input = require('../input')
 
 const isBasement = R.propSatisfies(R.lt(R.__, 0), 'floor')
 

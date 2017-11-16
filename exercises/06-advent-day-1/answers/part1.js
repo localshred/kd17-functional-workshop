@@ -1,5 +1,5 @@
 const R = require('ramda')
-const input = require('../input.js')
+const input = require('../input')
 
 const OPERATIONS = {
   '(': R.inc,
