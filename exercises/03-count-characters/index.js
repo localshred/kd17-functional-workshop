@@ -1,3 +1,5 @@
+const reduce = require('./helpers/reduce-stateless')
+
 module.exports = characters => {
   const returnValue = {}
 
