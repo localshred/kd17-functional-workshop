@@ -35,8 +35,28 @@ you've been learning today.
 7. [Advent of Code 2015 Day 2](./exercises/07-advent-day-2/index.js)
 8. ...
 
+## Where do I go from here?
+
++ Tutorials / Blog Posts
+  + [Professor Frisby's Mostly Adequate Guide To Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) - The first 6 or 7 chapters are pure gold, and the others make me want to learn to be an astronaut so I can understand them one day too. Well worth the time invested to take it slow and really soak it in. I've gone through it multiple times and each time I understand more and more. Written by a pillar of the FP community, [@drboolean](https://twitter.com/drboolean).
+  + [Favoring Curry](http://fr.umio.us/favoring-curry/)
+  + [Why Curry Helps](https://hughfdjackson.com/javascript/why-curry-helps/)
+  + [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop)
+  + [Introducing Ramda](http://buzzdecafe.github.io/code/2014/05/16/introducing-ramda)
+  + [Why Ramda?](http://fr.umio.us/why-ramda/)
+  + [Thinking In Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda) - Whole series of posts, highly recommended.
+  + [Transducers Explained, Part 1](http://simplectic.com/blog/2014/transducers-explained-1/) - Really insightful post that finally helped me _get_ transducers. [Part 2 here](http://simplectic.com/blog/2014/transducers-explained-pipelines/).
++ Languages
+  + Elm - Haskell-like language that "compiles" to front-end JavaScript, wicked fast performance often beating React in benchmarks. But that's not why you should look at it. Elm is a game changer and it'll change how you think and build programs.
+  + Clojure - A LISP built on the JVM with phenomenal Java interop.
+  + Elixir - If Erlang and Ruby had a baby (ignoring all of Ruby's OO tools), it would be Elixir. Initially funky but nearly instantly loveable, Elixir (really because of Erlang) will also change the way you think about building distributed applications.
+  + Erlang - Because for all it's syntactic difficulties, the Erlang community wrote the book on distributed programming with rock solid resiliency.
+  + Haskell - Because it'll simultaneously scare you to death but also woo you into thinking the fabric of the universe was written with it. (But unfortunately it was mostly [perl](https://xkcd.com/224/).)
++ Books
+  + _Seven Languages in Seven Weeks_ (Tate, [Amazon](http://a.co/eKjUzNj)) - Really great resource for getting a shallow view of a bunch of languages. This book covers Clojure, Haskell, Io, Prolog, Scala, Erlang, and Ruby.
+  + _Seven More Languages in Seven Weeks_ (Tate, [Amazon](http://a.co/d1k1PMr)) - This book covers much more esoteric (at the time) languages than it's predecessor. It covers Lua, Factor, Elixir, Elm, Julia, MiniKanren, and Idris. Both Elm and Elixir have gone on to see some really significant adoption in the last few years.
+  + Any book written for one of the languages above.
+
 -----
 
-You can contact me via [github](https://github.com/localshred), [twitter](https://twitter.com/localshred), or email (bj at kuali dot co) if you have
-any additional questions about this workshop. Happy learning!
-
+You can contact me via [github](https://github.com/localshred), [twitter](https://twitter.com/localshred), or email (bj at kuali dot co) if you have any additional questions about this workshop. Happy learning!

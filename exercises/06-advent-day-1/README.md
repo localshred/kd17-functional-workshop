@@ -1,6 +1,4 @@
-# 2015 Advent of Code
-
-## Day 1: Not Quite Lisp
+# Exercise 6: 2015 Advent of Code Day 1
 
 ### Part 1
 

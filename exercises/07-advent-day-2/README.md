@@ -1,6 +1,4 @@
-# 2015 Advent of Code
-
-## Day 2: I Was Told There Would Be No Math
+# Exercise 7: 2015 Advent of Code Day 2
 
 ### Part 1
 
@@ -17,7 +15,11 @@ All numbers in the elves' list are in feet. How many *total square feet of wrapp
 
 Using the instructions in [`input.txt`](./input.txt), to what floor do the [instructions](./input.txt) take Santa?
 
+[Submit your answer](http://adventofcode.com/2015/day/2).
+
 ### Part 2
+
+__Note:__ Make sure you complete part 1 first.
 
 The elves are also running low on ribbon. Ribbon is all the same width, so they only have to worry about the length they need to order, which they would again like to be exact.
 
@@ -31,4 +33,3 @@ For example:
 How many total *feet of ribbon* should they order?
 
 [Submit your answer](http://adventofcode.com/2015/day/2).
-

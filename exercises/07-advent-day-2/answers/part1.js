@@ -2,10 +2,10 @@ const R = require('ramda')
 const input = require('../input')
 
 const extractDimensionCalculations = ([l, w, h]) => [
-  [2, l, w],
-  [2, w, h],
-  [2, l, h],
-  getSmallestSidePair([l, w, h])
+  [2, l, w], // 2*l*w
+  [2, w, h], // 2*w*h
+  [2, l, h], // 2*l*h
+  getSmallestSidePair([l, w, h]) // smallest side dimensions
 ]
 
 const getSmallestSidePair = dimensions =>
