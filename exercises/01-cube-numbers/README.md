@@ -1,10 +1,12 @@
 # Exercise 1: Cube each number in the list
 
-## Goal
+### Goal
 
-To refactor the [index.js](./index.js) file to use [Array#map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) to cube each number in the array provided by the test.
+To refactor the [index.js](./index.js) file to use [Array#map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) to cube each number in the array provided by the test, removing all references to any in-function state if possible.
 
-## Test
+___Tip___: To reduce the implementation size even more consider using [arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions).
+
+### Test
 
 ```
 $ yarn jest exercises/01-cube-numbers
