@@ -41,12 +41,17 @@ you've been learning today.
   + [Professor Frisby's Mostly Adequate Guide To Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) - The first 6 or 7 chapters are pure gold, and the others make me want to learn to be an astronaut so I can understand them one day too. Well worth the time invested to take it slow and really soak it in. I've gone through it multiple times and each time I understand more and more. Written by a pillar of the FP community, [@drboolean](https://twitter.com/drboolean).
   + [Favoring Curry](http://fr.umio.us/favoring-curry/)
   + [Why Curry Helps](https://hughfdjackson.com/javascript/why-curry-helps/)
-  + [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop)
   + [Introducing Ramda](http://buzzdecafe.github.io/code/2014/05/16/introducing-ramda)
   + [Why Ramda?](http://fr.umio.us/why-ramda/)
   + [Thinking In Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda) - Whole series of posts, highly recommended.
   + [Transducers Explained, Part 1](http://simplectic.com/blog/2014/transducers-explained-1/) - Really insightful post that finally helped me _get_ transducers. [Part 2 here](http://simplectic.com/blog/2014/transducers-explained-pipelines/).
   + [Object Oriented Programming is an expensive disaster which must end](http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end) - Pretty flame-baity title that goes to a lot of trouble to absolutely demolish the OO paradigm. Not for the faint of heart, but I found it a really instructive article, certainly worth consideration. No paradigm is without its flaws, FP included. YMMV. :)
++ Videos
+  + [Functional Programming Patterns for the Non-Mathmatician](https://www.youtube.com/watch?v=AvgwKjTPMmM)
+  + [Oh Composable World!](https://www.youtube.com/watch?v=SfWR3dKnFIo)
+  + [A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)
+  + [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop)
+  + [How I learned to Stop Worrying and Love Higher-Order Functions](https://www.youtube.com/watch?v=d1KPN2YQpSs)
 + Languages
   + [Elm](http://elm-lang.org/) - Haskell-like language that "compiles" to front-end JavaScript, wicked fast performance often beating React in benchmarks. But that's not why you should look at it. Elm is a game changer and it'll change how you think and build programs.
   + [Clojure](https://clojure.org/) - A LISP built on the JVM with phenomenal Java interop.
