@@ -2,6 +2,8 @@
 
 ## Presenter: BJ Neilsen (@localshred everywhere)
 
++ [Here are the Slides](https://docs.google.com/presentation/d/1H0Du-Qanr6ZdWiyy4HkCBw68_RkfcFxdSpg889L-Jt0/edit?usp=sharing)
+
 ![Sweet!](./napoleon.gif)
 
 ### Install Node and Package Dependencies
